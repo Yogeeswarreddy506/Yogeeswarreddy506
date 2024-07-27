@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yogeeswarreddy506
 - 👀 I’m interested in Spend Time for Valuable person
-- 🌱 I’m currently learning .NET Full Stack Developer
-- 💞️ I’m looking for Software Developer
+- 🌱 I’m currently learned .NET Full Stack Developer
+- 💞️ I’m looking for job on Software Developer
 - 📫 How to reach me Email: yogeeswarreddy506@gmail.com 
 
 <!---
